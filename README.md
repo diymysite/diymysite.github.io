@@ -13,3 +13,9 @@
 基于Jekyll和Github Pages的个人博客，在保证安全性的前提下，提供各种小插件和小功能，让你的博客易于管理。最初由[TerminusBot](https://github.com/terminusbot/)对kiko-now主题的改造增强，DIY My Site在此基础上进一步增强。 
 - 代码仓库 [https://github.com/diymysite/blog](https://github.com/diymysite/blog)
 - Demo: [https://diymysite.github.io/blog/](https://diymysite.github.io/blog/) 
+
+
+
+---
+
+Github [https://github.com/diymysite/diymysite.github.io](https://github.com/diymysite/diymysite.github.io)
