@@ -6,6 +6,10 @@
 - 代码仓库 [https://github.com/diymysite/blog](https://github.com/diymysite/blog)
 - Demo: [https://diymysite.github.io/blog/](https://diymysite.github.io/blog/) 
 
+## 2 流量分析
+流量分析对业务经营开展很重要，但目前主流的流量分析插件对用户的隐私保护不好，会过多搜集用户隐私信息，因此这里试图找到隐私友好的流量分析插件。
+- 代码仓库 [https://github.com/diymysite/analytics](https://github.com/diymysite/analytics)
+- （请在Tor环境下访问）Demo [https://diymysite.github.io/analytics/](https://diymysite.github.io/analytics/)
 
 ## 常见问题
 一 **为什么推荐用Github Page搭建网站？**
